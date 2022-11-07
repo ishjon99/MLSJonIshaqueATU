@@ -20,3 +20,7 @@ To run the notebooks on a local system in this reposotiory users will need the f
 01. Statistics exercises
 
 02. Models exercises
+
+Referecnes
+
+https://github.com/github/gitignore/blob/main/Global/Windows.gitignore
