@@ -48,3 +48,5 @@ jupyter notebook
 
 
 https://github.com/github/gitignore/blob/main/Global/Windows.gitignore
+
+https://jupyter.org/install
