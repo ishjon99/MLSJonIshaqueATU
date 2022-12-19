@@ -14,7 +14,7 @@ tensorflow pip install tensorflow
 keras
 ---
 ## Setup
-To run the notebooks on a local system in this reposotiory users will need the following Python modules:
+To run the notebooks on a local system in this repository users will need the following Python modules:
 
 How to install jupyter
 users can install Jupyter Lab or the classic Jupyter Notebook using either of the following commands on the command line:
@@ -26,7 +26,7 @@ pip install notebook
 
 
 ## Running the notebooks
-From the command line in the repostiory directory on your system, you can run the notebooks in lab or note back by entering either of the following lines:
+From the command line in the repository directory on your system, you can run the notebooks in lab or note back by entering either of the following lines:
 
 jupyter-lab
 
@@ -42,6 +42,8 @@ jupyter notebook
 
 ### 03. Parameters exercises
 
+### 03. Learning exercises
+
 ### Anomaly-detection.ipynb
 
 ## References
@@ -50,3 +52,5 @@ jupyter notebook
 https://github.com/github/gitignore/blob/main/Global/Windows.gitignore
 
 https://jupyter.org/install
+to install tensor flow/keras
+conda install tensorflow
